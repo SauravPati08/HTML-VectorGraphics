@@ -1,4 +1,4 @@
-# HTML5-VectorGraphics
+# HTML-VectorGraphics
 SVG defines vector-based graphics in XML format.
 
 What is SVG?
